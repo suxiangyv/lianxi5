@@ -10,5 +10,6 @@ package com.bw.test;
 public class MyTest {
 	public static void main(String[] args) {
 		System.out.println("苏祥宇");
+		System.out.println("helloword");
 	}
 }	
